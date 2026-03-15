@@ -1,0 +1,7 @@
+{
+  "name": "Link2QR Pro",
+  "description": "A high-end QR code generator that transforms any link into a beautiful, scannable QR code with AI-powered metadata analysis and custom branding.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
